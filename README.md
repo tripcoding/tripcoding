@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ***
-- 🌱 I’m currently learning Go, Rust, Elixir.
+- 🌱 I’m currently learning Go and Rust.
